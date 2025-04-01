@@ -2,7 +2,7 @@
 
 
 To-Do List Web App
-# A simple and interactive To-Do List application built using HTML, CSS, and JavaScript. This project allows users to add, remove, and check off tasks. It also stores the tasks in the browser's local storage, so the tasks persist even after the page is refreshed.
+ A simple and interactive To-Do List application built using HTML, CSS, and JavaScript. This project allows users to add, remove, and check off tasks. It also stores the tasks in the browser's local storage, so the tasks persist even after the page is refreshed.
 
 Features
 #1- Add Tasks: Users can add new tasks to the list by typing in the input field and clicking the "Add" button.
